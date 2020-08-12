@@ -320,6 +320,8 @@ ul li {
 }
 .banner-text {
 	padding-top: 35%;
+	padding-bottom: 10%;
+
 }
 .banner-text h1 {
 	color: #fff;
@@ -339,7 +341,6 @@ ul li {
 	margin-bottom: 7%;
 }
 .banner-img {
-	bottom: -186px;
 	position: relative;
 }
 .banner-btn a {
@@ -406,7 +407,8 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .features2 {
-	padding-bottom:0;
+	padding-bottom:30px;
+	background-color:#FEEEED;
 }
 .features2-content {
 	margin-top:15%;
@@ -429,7 +431,7 @@ ul li {
 }
 .features3 {
 	background-color:#f2f2f2;
-	padding-bottom:0;
+	padding-bottom:30px;
 }
 .features3 img {
 	bottom: -100px;
